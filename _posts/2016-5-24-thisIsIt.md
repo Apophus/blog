@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello World!
+title: Hello world
 ---
-##hi
+## hi
 This is my vey first blog post on github. 
-##I am **Very excited** to share my experience with the whole world. 
+## I am **Very excited** to share my experience with the whole world. 
